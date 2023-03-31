@@ -1,2 +1,3 @@
-# spring-boot-jpa-template
- spring-boot-jpa-template demo
+## spring-boot-jpa-template
+- Spring Boot version: 3.0.5
+- java jdk version: 17
